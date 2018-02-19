@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="business_name">32sp</dimen> <!-- elementi u dp a text u sp -->
+    <dimen name="padding">8dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="picture_move">2dp</dimen>
+</resources>
